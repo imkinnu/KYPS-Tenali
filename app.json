@@ -1,0 +1,12 @@
+{
+  "name": "cdma",
+  "displayName": "cdma",
+  "expo": {
+    "name": "cdma",
+    "slug": "cdma",
+    "version": "1.0.0",
+    "assetBundlePatterns": [
+      "**/*"
+    ]
+  }
+}
